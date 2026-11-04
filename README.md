@@ -191,48 +191,50 @@
     <p>
       무작위 대량 추출 후 여러 업체에 중복 판매되는 저품질 리스트와, 당일 신청 즉시 1초 만에 독점 전달되는 당사 <strong>주식디비</strong>의 품질 확인 포인트 비교입니다.
     </p>
-    <table>
-      <thead>
-        <tr>
-          <th>품질 확인 포인트</th>
-          <th>시중 일반 과거 추출 · 재활용 리스트</th>
-          <th>당사 당일 실시간 주식디비 (100% 독점 공급)</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>데이터 수집 시점 (신선도)</strong></td>
-          <td>수일~수주 전 수집된 과거 이벤트 응모자 재탕</td>
-          <td><strong>당일 장중·장후 증시 캠페인에서 직접 신청한 최신주식디비</strong></td>
-        </tr>
-        <tr>
-          <td><strong>고객 반응 및 퍼미션 수준</strong></td>
-          <td>동의 여부 불명확 (강한 통화 거부감 및 민원 위험)</td>
-          <td><strong>영상 시청·설문 응답 및 제3자 정보 제공 동의 100% 완료 (주식퍼미션디비)</strong></td>
-        </tr>
-        <tr>
-          <td><strong>전달 속도 (상담 골든타임)</strong></td>
-          <td>수집 후 시차를 두고 엑셀 파일 일괄 납품</td>
-          <td><strong>고객 신청 직후 1초 이내 구글 스프레드시트 · CRM 실시간 자동 연동</strong></td>
-        </tr>
-        <tr>
-          <td><strong>독점 공급 및 중복 제거</strong></td>
-          <td>동일 번호를 3~10개 업체에 쪼개기 중복 판매</td>
-          <td><strong>기보유 번호 사전 해시 제거 &amp; 1업체 1캠페인 100% 단독 독점 공급</strong></td>
-        </tr>
-        <tr>
-          <td><strong>불량 번호 사후 교환 (AS)</strong></td>
-          <td>납품 후 교환 불가 또는 까다로운 입증 요구</td>
-          <td><strong>결번·오번·중복 등 객관적 불량 발생 시 당일 100% 즉시 1:1 무상 교환</strong></td>
-        </tr>
-      </tbody>
-    </table>
+    <div style="overflow-x: auto;">
+      <table>
+        <thead>
+          <tr>
+            <th style="width: 22%;">품질 확인 포인트</th>
+            <th style="width: 38%;">시중 일반 과거 추출 · 재활용 리스트</th>
+            <th style="width: 40%; background: #e0f2fe; color: #0369a1;">당사 당일 실시간 주식디비 (100% 독점 공급)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>데이터 수집 시점 (신선도)</strong></td>
+            <td>수일~수주 전 수집된 과거 이벤트 응모자 재탕</td>
+            <td><strong>당일 장중·장후 증시 캠페인에서 직접 신청한 최신주식디비</strong></td>
+          </tr>
+          <tr>
+            <td><strong>고객 반응 및 퍼미션 수준</strong></td>
+            <td>동의 여부 불명확 (강한 통화 거부감 및 민원 위험)</td>
+            <td><strong>영상 시청·설문 응답 및 제3자 정보 제공 동의 100% 완료 (주식퍼미션디비)</strong></td>
+          </tr>
+          <tr>
+            <td><strong>전달 속도 (상담 골든타임)</strong></td>
+            <td>수집 후 시차를 두고 엑셀 파일 일괄 납품</td>
+            <td><strong>고객 신청 직후 1초 이내 구글 스프레드시트 · CRM 실시간 자동 연동</strong></td>
+          </tr>
+          <tr>
+            <td><strong>독점 공급 및 중복 제거</strong></td>
+            <td>동일 번호를 3~10개 업체에 쪼개기 중복 판매</td>
+            <td><strong>기보유 번호 사전 해시 제거 &amp; 1업체 1캠페인 100% 단독 독점 공급</strong></td>
+          </tr>
+          <tr>
+            <td><strong>불량 번호 사후 교환 (AS)</strong></td>
+            <td>납품 후 교환 불가 또는 까다로운 입증 요구</td>
+            <td><strong>결번·오번·중복 등 객관적 불량 발생 시 당일 100% 즉시 1:1 무상 교환</strong></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </section>
 
   <section id="sec-as" class="cta-footer">
     <h2>필요한 주식디비 유형과 희망 수량을 알려주시면 최적의 구성을 안내해 드립니다</h2>
     <p>
-      유튜브주식디비, 실시간주식디비, 주식퍼미션디비, 주식TM용디비, 주식1차콜디비, 비상장주식디비까지 투명한 주식디비가격 기준으로 24시간 빠르게 상담하실 수 있습니다.
+      유튜브주식디비, 실시간주식디비, 주식퍼미션디비, 주식TM용디비, 주식1차콜디비, 비상장주식디비까지 투명한 주식디비가격 기준으로 24시간 빠르게 상담하실 수 있습니다.<br>
       • 공식 이메일 문의: cpadbdb@실시간디비.com
     </p>
     <div class="btn-group">
